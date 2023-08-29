@@ -80,7 +80,7 @@
   <meta name="current-catalog-service-hash" content="82c569b93da5c18ed649ebd4c2c79437db4611a6a1373e805a3cb001c64130b7">
 
 
-  <meta name="request-id" content="CB2F:F6B6C:EEC342:109D74A:64ED6ADD" data-pjax-transient="true"/><meta name="html-safe-nonce" content="f6abf9db3519bdfcae62e94c2069cd1a6b2c9687bab3b81299c771f9c41e5f83" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiJDQjJGOkY2QjZDOkVFQzM0MjoxMDlENzRBOjY0RUQ2QUREIiwidmlzaXRvcl9pZCI6IjkxNDA3NDkwMTM5NDA1Mjk3NzkiLCJyZWdpb25fZWRnZSI6ImNlbnRyYWxpbmRpYSIsInJlZ2lvbl9yZW5kZXIiOiJjZW50cmFsaW5kaWEifQ==" data-pjax-transient="true"/><meta name="visitor-hmac" content="8249498d060a11b439a08ab6bf22ac2f74735d2c7bc23eafea0eca73f8c71943" data-pjax-transient="true"/>
+  <meta name="request-id" content="CB93:25577B:EF5B08:10ABBDE:64ED6B54" data-pjax-transient="true"/><meta name="html-safe-nonce" content="6f304232b7f550d5e8db60acacf27d08327da9e9a34e64b4e450bae1b7c93f23" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiJDQjkzOjI1NTc3QjpFRjVCMDg6MTBBQkJERTo2NEVENkI1NCIsInZpc2l0b3JfaWQiOiI5MTQwNzQ5MDEzOTQwNTI5Nzc5IiwicmVnaW9uX2VkZ2UiOiJjZW50cmFsaW5kaWEiLCJyZWdpb25fcmVuZGVyIjoiY2VudHJhbGluZGlhIn0=" data-pjax-transient="true"/><meta name="visitor-hmac" content="d50245921e5ed7c92ebc2e637eb43ddccb757b35973e8bb077cf09ef89c9789b" data-pjax-transient="true"/>
 
 
     <meta name="hovercard-subject-tag" content="repository:682172706" data-turbo-transient>
@@ -572,7 +572,7 @@
                 
 
 
-<qbsearch-input class="search-input" data-scope="repo:Shrushtikesur/simple-interest" data-custom-scopes-path="/search/custom_scopes" data-delete-custom-scopes-csrf="ysspjiz4ItWwki64J6iDnqdUZWM0Oq1azW9fYvYVYIIq_onaCaWDmMPA2AFkbD0le40q88nkFb3uhYNknKWmvw" data-max-custom-scopes="10" data-header-redesign-enabled="false" data-initial-value="" data-blackbird-suggestions-path="/search/suggestions" data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations" data-current-repository="Shrushtikesur/simple-interest" data-current-org="" data-current-owner="Shrushtikesur" data-logged-in="false">
+<qbsearch-input class="search-input" data-scope="repo:Shrushtikesur/simple-interest" data-custom-scopes-path="/search/custom_scopes" data-delete-custom-scopes-csrf="F42RUydKU1UP2tB4XDCYhG7dZr2BIB_Ky6enUTXQlxEzWF_hU7rWizTiNocDauoxfJPC-xKpvb0vKwsfGTaXvQ" data-max-custom-scopes="10" data-header-redesign-enabled="false" data-initial-value="" data-blackbird-suggestions-path="/search/suggestions" data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations" data-current-repository="Shrushtikesur/simple-interest" data-current-org="" data-current-owner="Shrushtikesur" data-logged-in="false">
   <div
     class="search-input-container search-with-dialog position-relative d-flex flex-row flex-items-center mr-4 rounded"
     data-action="click:qbsearch-input#searchInputContainerClicked"
@@ -634,7 +634,7 @@
           ></div>
           <div class="QueryBuilder-InputWrapper">
             <div aria-hidden="true" class="QueryBuilder-Sizer" data-target="query-builder.sizer"></div>
-            <input id="query-builder-test" name="query-builder-test" value="" autocomplete="off" type="text" role="combobox" spellcheck="false" aria-expanded="false" aria-describedby="validation-af8aebc6-e3af-46a1-a6ad-1b9f8c8e74ae" data-target="query-builder.input" data-action="
+            <input id="query-builder-test" name="query-builder-test" value="" autocomplete="off" type="text" role="combobox" spellcheck="false" aria-expanded="false" aria-describedby="validation-d911a5d2-438f-4f89-890f-7a328c4617c2" data-target="query-builder.input" data-action="
           input:query-builder#inputChange
           blur:query-builder#inputBlur
           keydown:query-builder#inputKeydown
@@ -740,7 +740,7 @@
                   id="query-builder-test-results"
                 ></ul>
         </div>
-      <div class="FormControl-inlineValidation" id="validation-af8aebc6-e3af-46a1-a6ad-1b9f8c8e74ae" hidden="hidden">
+      <div class="FormControl-inlineValidation" id="validation-d911a5d2-438f-4f89-890f-7a328c4617c2" hidden="hidden">
         <span class="FormControl-inlineValidation--visual">
           <svg aria-hidden="true" height="12" viewBox="0 0 12 12" version="1.1" width="12" data-view-component="true" class="octicon octicon-alert-fill">
     <path d="M4.855.708c.5-.896 1.79-.896 2.29 0l4.675 8.351a1.312 1.312 0 0 1-1.146 1.954H1.33A1.313 1.313 0 0 1 .183 9.058ZM7 7V3H5v4Zm-1 3a1 1 0 1 0 0-2 1 1 0 0 0 0 2Z"></path>
@@ -780,7 +780,7 @@
     </div>
   </div>
 </div>
-      <div data-view-component="true" class="Overlay-body">        <!-- '"` --><!-- </textarea></xmp> --></option></form><form id="code-search-feedback-form" data-turbo="false" action="/search/feedback" accept-charset="UTF-8" method="post"><input type="hidden" data-csrf="true" name="authenticity_token" value="62v7SXTLBCfHFqNnkjbvVPH0IKjZuKqSlp3dRZpnSfGh4vTal9nxEYv7oHYbWJWVCXhjlx5xdL81AmAzs29F2g==" />
+      <div data-view-component="true" class="Overlay-body">        <!-- '"` --><!-- </textarea></xmp> --></option></form><form id="code-search-feedback-form" data-turbo="false" action="/search/feedback" accept-charset="UTF-8" method="post"><input type="hidden" data-csrf="true" name="authenticity_token" value="c5VgEgLDJ1hVaRNkBQ7oFWJ1/bs25vyywCIQ3KA2NFAOlRsmr1Mf0lgPswXaKC9YGiHfjMkwt1QNo1oHDndEJQ==" />
           <p>We read every piece of feedback, and take your input very seriously.</p>
           <textarea name="feedback" class="form-control width-full mb-2" style="height: 120px" id="feedback"></textarea>
           <input name="include_email" id="include_email" aria-label="Include my email address so I can be contacted" class="form-control mr-2" type="checkbox">
@@ -815,7 +815,7 @@
       <div data-view-component="true" class="Overlay-body">        <div data-target="custom-scopes.customScopesModalDialogFlash"></div>
 
         <div hidden class="create-custom-scope-form" data-target="custom-scopes.createCustomScopeForm">
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form id="custom-scopes-dialog-form" data-turbo="false" action="/search/custom_scopes" accept-charset="UTF-8" method="post"><input type="hidden" data-csrf="true" name="authenticity_token" value="LrlV1tmxj16gO4liDC+mxEbCYq/Aw2X0w/+IgSQo/osmEJV7aa7LDaajpu3RsAkNY3lAVLm5hHl1INPcOgnS4Q==" />
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form id="custom-scopes-dialog-form" data-turbo="false" action="/search/custom_scopes" accept-charset="UTF-8" method="post"><input type="hidden" data-csrf="true" name="authenticity_token" value="MxsJnOYSp9SDnAJacb5GIYWwhAzdcrqt0cuHJ3ZVUsAHKaUFMur+h+rtyXPX3GT1S5fQ/HlZ9qHk1fL5jU9FUA==" />
           <div data-target="custom-scopes.customScopesModalDialogFlash"></div>
 
           <input type="hidden" id="custom_scope_id" name="custom_scope_id" data-target="custom-scopes.customScopesIdField">
@@ -833,7 +833,7 @@
                 placeholder="github-ruby"
                 required
                 maxlength="50">
-              <input type="hidden" data-csrf="true" value="aTk0j4YnQZ2U5W9c10PwLPexpTDr6Elod7oDhFgBiTDK5d3WvmTRZFrWGVQr2Fn+hYKfHnygbppPX8duX3Xi+Q==" />
+              <input type="hidden" data-csrf="true" value="GBZve9mpoTxzk4hJVdV2mqXnmklKr1O3nFgUxhD+uzt5oA0bZm/zfOULVeDtsRVfBrtPsBba2CCetPTgH7357A==" />
             </auto-check>
           </div>
 
@@ -869,7 +869,7 @@
 </modal-dialog></div>
     </custom-scopes>
   </div>
-</qbsearch-input><input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="3Y8oeNHLG0PiMwlByBEYumN+qMS8tCtj3nLXjH8QhPwxLVQTOaYDfTkVPlpKVLZEU8io5XKwYXq5ZwyGgchUkA==" />
+</qbsearch-input><input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="4kBESTZxDRCX2LalRotoHp9HHeeLkQieNm3y9PUkObd7iA92WglOPur/0gfHRFjoabKyhdCWl9CNjIAfSreOUw==" />
 
 
           <div class="position-relative mr-lg-3 d-lg-inline-block">
@@ -1394,7 +1394,7 @@
             <h2 class="f5 text-normal" >Commits on Aug 23, 2023</h2>
             <ol class="mt-3 list-style-none Box Box--condensed ml-n6 ml-sm-0 position-relative" >
                 <li class="Box-row Box-row--focus-gray mt-0 d-flex js-commits-list-item js-navigation-item"
-    data-channel="eyJjIjoicmVwbzo2ODIxNzI3MDY6Y29tbWl0OjlkNmIxMDlhZWMxY2EwNDc5MjczNzVmNzIxZjNkYTQwNjQxOTY0ODMiLCJ0IjoxNjkzMjgwOTkxfQ==--9bfb792c0b8edec898ec8cbb6ed77ef761068bd706c3c0ae85ce5dea4ebbb364"
+    data-channel="eyJjIjoicmVwbzo2ODIxNzI3MDY6Y29tbWl0OjlkNmIxMDlhZWMxY2EwNDc5MjczNzVmNzIxZjNkYTQwNjQxOTY0ODMiLCJ0IjoxNjkzMjgxMTA4fQ==--473e0fcfac08279671d1e730c05d15bf15929f58e7216f8dbc2dc32e1eb1a33c"
     data-url="/Shrushtikesur/simple-interest/commits/9d6b109aec1ca047927375f721f3da4064196483/commits_list_item"
     
     
@@ -1452,12 +1452,12 @@
 </svg>
 </clipboard-copy></span>
     </span>
-</button>  <tool-tip id="tooltip-225a4826-ea8b-4ba5-aafb-8672b8fe1894" for="copy-commit-9d6b109aec1ca047927375f721f3da4064196483" popover="manual" data-direction="s" data-type="description" data-view-component="true" class="sr-only position-absolute">Copy the full SHA</tool-tip>
+</button>  <tool-tip id="tooltip-61edfdf1-cae1-4257-8087-606ba363ee37" for="copy-commit-9d6b109aec1ca047927375f721f3da4064196483" popover="manual" data-direction="s" data-type="description" data-view-component="true" class="sr-only position-absolute">Copy the full SHA</tool-tip>
 </div>
     <div data-view-component="true" class="Button-withTooltip">  <a id="commit-details-9d6b109aec1ca047927375f721f3da4064196483" href="/Shrushtikesur/simple-interest/commit/9d6b109aec1ca047927375f721f3da4064196483" data-view-component="true" class="Button--secondary Button--small Button text-mono f6">    <span class="Button-content">
       <span class="Button-label">9d6b109</span>
     </span>
-</a>  <tool-tip id="tooltip-849f1af5-5e31-4bd1-9563-79773cfacb80" for="commit-details-9d6b109aec1ca047927375f721f3da4064196483" popover="manual" data-direction="s" data-type="description" data-view-component="true" class="sr-only position-absolute">View commit details</tool-tip>
+</a>  <tool-tip id="tooltip-8560eb3b-a3c9-4d8b-82ac-fc4614b8871c" for="commit-details-9d6b109aec1ca047927375f721f3da4064196483" popover="manual" data-direction="s" data-type="description" data-view-component="true" class="sr-only position-absolute">View commit details</tool-tip>
 </div>
 </div>
     <div data-view-component="true" class="ButtonGroup">
@@ -1465,13 +1465,13 @@
   <a id="history-link-9d6b109aec1ca047927375f721f3da4064196483" href="/Shrushtikesur/simple-interest/tree/9d6b109aec1ca047927375f721f3da4064196483" data-view-component="true" class="Button Button--iconOnly Button--secondary Button--small">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code Button-visual">
     <path d="m11.28 3.22 4.25 4.25a.75.75 0 0 1 0 1.06l-4.25 4.25a.749.749 0 0 1-1.275-.326.749.749 0 0 1 .215-.734L13.94 8l-3.72-3.72a.749.749 0 0 1 .326-1.275.749.749 0 0 1 .734.215Zm-6.56 0a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042L2.06 8l3.72 3.72a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L.47 8.53a.75.75 0 0 1 0-1.06Z"></path>
 </svg>
-</a>  <tool-tip id="tooltip-da85c9b3-f710-464d-a2a8-be468e67b9b8" for="history-link-9d6b109aec1ca047927375f721f3da4064196483" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Browse the repository at this point in the history</tool-tip>
+</a>  <tool-tip id="tooltip-7851dc33-e0be-4777-b7b4-ba5c47415b32" for="history-link-9d6b109aec1ca047927375f721f3da4064196483" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Browse the repository at this point in the history</tool-tip>
 </div>
 </div>  </div>
 </li>
 
                 <li class="Box-row Box-row--focus-gray mt-0 d-flex js-commits-list-item js-navigation-item"
-    data-channel="eyJjIjoicmVwbzo2ODIxNzI3MDY6Y29tbWl0OmQxYTM1NzA0NzQzY2Y4NGM3MjllZTQyMDRmZjc1NzExNzAwZjJlYmEiLCJ0IjoxNjkzMjgwOTkxfQ==--5ef88b591cc88d3b18a6a74f00c8942bf0f87018fe4fcc7c45f7c021c83fe1e7"
+    data-channel="eyJjIjoicmVwbzo2ODIxNzI3MDY6Y29tbWl0OmQxYTM1NzA0NzQzY2Y4NGM3MjllZTQyMDRmZjc1NzExNzAwZjJlYmEiLCJ0IjoxNjkzMjgxMTA4fQ==--dd6dc986c37d0bfc7070ea64a0e60a9b63280b4272d0511072086258ac61e109"
     data-url="/Shrushtikesur/simple-interest/commits/d1a35704743cf84c729ee4204ff75711700f2eba/commits_list_item"
     
     
@@ -1529,12 +1529,12 @@
 </svg>
 </clipboard-copy></span>
     </span>
-</button>  <tool-tip id="tooltip-de3ac3a6-db79-4c75-acd7-7de5d3564399" for="copy-commit-d1a35704743cf84c729ee4204ff75711700f2eba" popover="manual" data-direction="s" data-type="description" data-view-component="true" class="sr-only position-absolute">Copy the full SHA</tool-tip>
+</button>  <tool-tip id="tooltip-97ed2697-d31f-4b93-b82b-5ed1d7d00d93" for="copy-commit-d1a35704743cf84c729ee4204ff75711700f2eba" popover="manual" data-direction="s" data-type="description" data-view-component="true" class="sr-only position-absolute">Copy the full SHA</tool-tip>
 </div>
     <div data-view-component="true" class="Button-withTooltip">  <a id="commit-details-d1a35704743cf84c729ee4204ff75711700f2eba" href="/Shrushtikesur/simple-interest/commit/d1a35704743cf84c729ee4204ff75711700f2eba" data-view-component="true" class="Button--secondary Button--small Button text-mono f6">    <span class="Button-content">
       <span class="Button-label">d1a3570</span>
     </span>
-</a>  <tool-tip id="tooltip-46cfc26f-9b09-41e4-962d-dccbba5868f1" for="commit-details-d1a35704743cf84c729ee4204ff75711700f2eba" popover="manual" data-direction="s" data-type="description" data-view-component="true" class="sr-only position-absolute">View commit details</tool-tip>
+</a>  <tool-tip id="tooltip-35dbd3b3-9b8c-4710-ad77-5da36d8fae4c" for="commit-details-d1a35704743cf84c729ee4204ff75711700f2eba" popover="manual" data-direction="s" data-type="description" data-view-component="true" class="sr-only position-absolute">View commit details</tool-tip>
 </div>
 </div>
     <div data-view-component="true" class="ButtonGroup">
@@ -1542,13 +1542,13 @@
   <a id="history-link-d1a35704743cf84c729ee4204ff75711700f2eba" href="/Shrushtikesur/simple-interest/tree/d1a35704743cf84c729ee4204ff75711700f2eba" data-view-component="true" class="Button Button--iconOnly Button--secondary Button--small">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code Button-visual">
     <path d="m11.28 3.22 4.25 4.25a.75.75 0 0 1 0 1.06l-4.25 4.25a.749.749 0 0 1-1.275-.326.749.749 0 0 1 .215-.734L13.94 8l-3.72-3.72a.749.749 0 0 1 .326-1.275.749.749 0 0 1 .734.215Zm-6.56 0a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042L2.06 8l3.72 3.72a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L.47 8.53a.75.75 0 0 1 0-1.06Z"></path>
 </svg>
-</a>  <tool-tip id="tooltip-2fef6135-9585-436b-b3f2-9fa5b1acf632" for="history-link-d1a35704743cf84c729ee4204ff75711700f2eba" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Browse the repository at this point in the history</tool-tip>
+</a>  <tool-tip id="tooltip-737572f3-b2ef-49f9-816c-6dbd778f08ee" for="history-link-d1a35704743cf84c729ee4204ff75711700f2eba" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Browse the repository at this point in the history</tool-tip>
 </div>
 </div>  </div>
 </li>
 
                 <li class="Box-row Box-row--focus-gray mt-0 d-flex js-commits-list-item js-navigation-item"
-    data-channel="eyJjIjoicmVwbzo2ODIxNzI3MDY6Y29tbWl0OjhiYzJjZTEyOTFlZDAzMDM1OWFkMzI2ZGJmMGUwMzBmZDBlMWFlYTgiLCJ0IjoxNjkzMjgwOTkxfQ==--1eca99db0d9e0f318307b60bbd586f97ec4d03d54f56dd92c0eb3756253311ef"
+    data-channel="eyJjIjoicmVwbzo2ODIxNzI3MDY6Y29tbWl0OjhiYzJjZTEyOTFlZDAzMDM1OWFkMzI2ZGJmMGUwMzBmZDBlMWFlYTgiLCJ0IjoxNjkzMjgxMTA4fQ==--79c228312946bef8e1186a54d07d9e38b16837b63e0a59371eeac14001c159e6"
     data-url="/Shrushtikesur/simple-interest/commits/8bc2ce1291ed030359ad326dbf0e030fd0e1aea8/commits_list_item"
     
     
@@ -1606,12 +1606,12 @@
 </svg>
 </clipboard-copy></span>
     </span>
-</button>  <tool-tip id="tooltip-dfc7f441-8213-4d7e-a404-4876d7f6876c" for="copy-commit-8bc2ce1291ed030359ad326dbf0e030fd0e1aea8" popover="manual" data-direction="s" data-type="description" data-view-component="true" class="sr-only position-absolute">Copy the full SHA</tool-tip>
+</button>  <tool-tip id="tooltip-21a603fc-cdf5-43fe-b36e-63047f8cd1d2" for="copy-commit-8bc2ce1291ed030359ad326dbf0e030fd0e1aea8" popover="manual" data-direction="s" data-type="description" data-view-component="true" class="sr-only position-absolute">Copy the full SHA</tool-tip>
 </div>
     <div data-view-component="true" class="Button-withTooltip">  <a id="commit-details-8bc2ce1291ed030359ad326dbf0e030fd0e1aea8" href="/Shrushtikesur/simple-interest/commit/8bc2ce1291ed030359ad326dbf0e030fd0e1aea8" data-view-component="true" class="Button--secondary Button--small Button text-mono f6">    <span class="Button-content">
       <span class="Button-label">8bc2ce1</span>
     </span>
-</a>  <tool-tip id="tooltip-7ae664c3-fdd8-4e33-8903-8a7a62319a03" for="commit-details-8bc2ce1291ed030359ad326dbf0e030fd0e1aea8" popover="manual" data-direction="s" data-type="description" data-view-component="true" class="sr-only position-absolute">View commit details</tool-tip>
+</a>  <tool-tip id="tooltip-1447ccba-9732-4fe9-a1d0-11d35741de25" for="commit-details-8bc2ce1291ed030359ad326dbf0e030fd0e1aea8" popover="manual" data-direction="s" data-type="description" data-view-component="true" class="sr-only position-absolute">View commit details</tool-tip>
 </div>
 </div>
     <div data-view-component="true" class="ButtonGroup">
@@ -1619,13 +1619,13 @@
   <a id="history-link-8bc2ce1291ed030359ad326dbf0e030fd0e1aea8" href="/Shrushtikesur/simple-interest/tree/8bc2ce1291ed030359ad326dbf0e030fd0e1aea8" data-view-component="true" class="Button Button--iconOnly Button--secondary Button--small">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code Button-visual">
     <path d="m11.28 3.22 4.25 4.25a.75.75 0 0 1 0 1.06l-4.25 4.25a.749.749 0 0 1-1.275-.326.749.749 0 0 1 .215-.734L13.94 8l-3.72-3.72a.749.749 0 0 1 .326-1.275.749.749 0 0 1 .734.215Zm-6.56 0a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042L2.06 8l3.72 3.72a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L.47 8.53a.75.75 0 0 1 0-1.06Z"></path>
 </svg>
-</a>  <tool-tip id="tooltip-bddb4c65-f684-4c09-84c2-44c7e7824d19" for="history-link-8bc2ce1291ed030359ad326dbf0e030fd0e1aea8" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Browse the repository at this point in the history</tool-tip>
+</a>  <tool-tip id="tooltip-07397fa3-6c5d-4a2c-bc36-ee0e59e618fc" for="history-link-8bc2ce1291ed030359ad326dbf0e030fd0e1aea8" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Browse the repository at this point in the history</tool-tip>
 </div>
 </div>  </div>
 </li>
 
                 <li class="Box-row Box-row--focus-gray mt-0 d-flex js-commits-list-item js-navigation-item"
-    data-channel="eyJjIjoicmVwbzo2ODIxNzI3MDY6Y29tbWl0OjlhZDBjZDk0NmE0ZDYyZjFmN2UyOTA2NDE3OTVmZjExN2RmZTk3MTUiLCJ0IjoxNjkzMjgwOTkxfQ==--202480560abc0fdf74536d2cb7d37158cd0e1646af1434991ffeebbe8f243c0c"
+    data-channel="eyJjIjoicmVwbzo2ODIxNzI3MDY6Y29tbWl0OjlhZDBjZDk0NmE0ZDYyZjFmN2UyOTA2NDE3OTVmZjExN2RmZTk3MTUiLCJ0IjoxNjkzMjgxMTA4fQ==--27853b76648ae486c9b5575b08634c5d1dc8921fcd511dddbffa039980b92fec"
     data-url="/Shrushtikesur/simple-interest/commits/9ad0cd946a4d62f1f7e290641795ff117dfe9715/commits_list_item"
     
     
@@ -1683,12 +1683,12 @@
 </svg>
 </clipboard-copy></span>
     </span>
-</button>  <tool-tip id="tooltip-3c78de77-a0cb-4a0c-99c4-b751fecf5d66" for="copy-commit-9ad0cd946a4d62f1f7e290641795ff117dfe9715" popover="manual" data-direction="s" data-type="description" data-view-component="true" class="sr-only position-absolute">Copy the full SHA</tool-tip>
+</button>  <tool-tip id="tooltip-a18a9b96-ac91-49d1-b542-ef9223e4d2a1" for="copy-commit-9ad0cd946a4d62f1f7e290641795ff117dfe9715" popover="manual" data-direction="s" data-type="description" data-view-component="true" class="sr-only position-absolute">Copy the full SHA</tool-tip>
 </div>
     <div data-view-component="true" class="Button-withTooltip">  <a id="commit-details-9ad0cd946a4d62f1f7e290641795ff117dfe9715" href="/Shrushtikesur/simple-interest/commit/9ad0cd946a4d62f1f7e290641795ff117dfe9715" data-view-component="true" class="Button--secondary Button--small Button text-mono f6">    <span class="Button-content">
       <span class="Button-label">9ad0cd9</span>
     </span>
-</a>  <tool-tip id="tooltip-26bd7fbc-f01d-45ff-a7cf-1ff56edde455" for="commit-details-9ad0cd946a4d62f1f7e290641795ff117dfe9715" popover="manual" data-direction="s" data-type="description" data-view-component="true" class="sr-only position-absolute">View commit details</tool-tip>
+</a>  <tool-tip id="tooltip-84356228-34b7-4f68-a54b-365e0b4826ca" for="commit-details-9ad0cd946a4d62f1f7e290641795ff117dfe9715" popover="manual" data-direction="s" data-type="description" data-view-component="true" class="sr-only position-absolute">View commit details</tool-tip>
 </div>
 </div>
     <div data-view-component="true" class="ButtonGroup">
@@ -1696,7 +1696,7 @@
   <a id="history-link-9ad0cd946a4d62f1f7e290641795ff117dfe9715" href="/Shrushtikesur/simple-interest/tree/9ad0cd946a4d62f1f7e290641795ff117dfe9715" data-view-component="true" class="Button Button--iconOnly Button--secondary Button--small">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code Button-visual">
     <path d="m11.28 3.22 4.25 4.25a.75.75 0 0 1 0 1.06l-4.25 4.25a.749.749 0 0 1-1.275-.326.749.749 0 0 1 .215-.734L13.94 8l-3.72-3.72a.749.749 0 0 1 .326-1.275.749.749 0 0 1 .734.215Zm-6.56 0a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042L2.06 8l3.72 3.72a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L.47 8.53a.75.75 0 0 1 0-1.06Z"></path>
 </svg>
-</a>  <tool-tip id="tooltip-cd055fbc-e3e3-49f3-a21f-408367cba576" for="history-link-9ad0cd946a4d62f1f7e290641795ff117dfe9715" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Browse the repository at this point in the history</tool-tip>
+</a>  <tool-tip id="tooltip-cafd810a-6d54-4ca3-ae8e-9aebe05674be" for="history-link-9ad0cd946a4d62f1f7e290641795ff117dfe9715" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Browse the repository at this point in the history</tool-tip>
 </div>
 </div>  </div>
 </li>
